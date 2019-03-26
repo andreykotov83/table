@@ -1,0 +1,13 @@
+table tr, td{
+  /* border-collapse: collapse; */
+  border: 1px solid black;
+  text-align: center;
+  font-family: sans-serif;
+}
+.ttt tr td{
+  width: 100%;
+  text-align: center;
+}
+.rrr tr td{
+  width: 50%;
+}
